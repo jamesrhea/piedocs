@@ -1,5 +1,5 @@
-title: Ben Balter
-description: Attorney, open source developer, product manager
+title: Pie Docs
+description: Serving up delicious documentation since 2014
 
 lang: en-US
 branch: master
@@ -18,12 +18,12 @@ ga_username: UA-xxxxxxxx-x
 
 # Links to include on the contact page
 contact_links:
-  - name: Twitter
-    url: https://twitter.com/BenBalter
-    icon: twitter
-  - name: Facebook
-    url: https://facebook.com/BenBalter
-    icon: facebook
+#  - name: Twitter
+#    url: https://twitter.com/BenBalter
+#    icon: twitter
+#  - name: Facebook
+#    url: https://facebook.com/BenBalter
+#    icon: facebook
 
 # Front matter defaults
 defaults:
@@ -49,7 +49,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
  
-
 exclude:
   - vendor/bundle
   - node_modules
