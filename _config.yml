@@ -47,7 +47,11 @@ plugins:
   - jekyll-avatar
   - jekyll-github-metadata
   - jekyll-feed
+  - jekyll-remote-theme
+ 
 
 exclude:
   - vendor/bundle
   - node_modules
+
+remote_theme: benbalter/retlab
