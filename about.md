@@ -1,7 +1,7 @@
 ---
 title: About
 description: James Rhea is a technical writer, documentation engineer, and philosopher who specializes in making difficult concepts easy to understand.
-layout: about
+layout: pages
 permalink: /about/
 published: true
 id: /about
