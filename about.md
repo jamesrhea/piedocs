@@ -10,13 +10,7 @@ seo:
   type: person
 ---
 
-Hi, I'm James Rhea. I'm a technical writer, documentation engineer, and philosopher who specializes in making difficult concepts easy to understand.
-
-In my day job I write user guides, configuration manuals, API documentation, and other technical documents. In short, I explain complex systems in understandable terms.
-
-Additionally, I have been doing web development since 2002, and have taught university-level courses in logic, philosophy, and ethics.
-
-Common thread: I love to jump into challenging new terrain, wrestle with the content, and produce something useful.
+James Rhea is a technical writer, documentation engineer, and philosopher. He explains complex systems in understandable terms. In his day job he writes user guides, configuration manuals, API documentation, and other technical documents. Additionally, he has been doing web development since 2002, and has taught university-level courses in logic, philosophy, and ethics. Common thread: James loves to jump into challenging new terrain, wrestle with the content, and produce something useful.
 
 ### Education
 
