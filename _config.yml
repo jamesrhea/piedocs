@@ -35,6 +35,7 @@ defaults:
     values:
       layout: post
       comments: false
+      hero: true
   -
     scope:
       path: ""
@@ -42,6 +43,7 @@ defaults:
     values:
       layout: page
       comments: false
+      hero: true
 
 plugins:
   - jekyll-seo-tag
